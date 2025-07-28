@@ -6,11 +6,6 @@
 
 ## 🔗 Быстрая навигация
 
-### 🧽 По уровням:
-- [🌱 Junior](levels/junior/README.md)
-- [🌿 Middle](levels/middle/README.md)
-- [🌳 Senior](levels/senior/README.md)
-
 ### 🛠 Инструменты:
 - [Bluedot (транскрибация)](tools/bluedot.md)
 - [Asana AI](tools/asana-ai.md)
